@@ -1,6 +1,6 @@
 ---
-last_reviewed: 2021-10-07T13:23:37+08:00
-title: '"229 Majority Element II - Medium'
+last_reviewed: 2023-10-08
+title: 229 Majority Element II - Medium
 excerpt: "-"
 tags:
   - "#algorithm"
