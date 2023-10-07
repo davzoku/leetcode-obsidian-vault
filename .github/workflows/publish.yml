@@ -32,8 +32,8 @@ jobs:
           cp -r temp_blog/. .
           rm -rf temp_blog
           rm -rf temp_md
-      - name: Deploy to Netlify
-        uses: jsmrcaga/action-netlify-deploy@v2.0.0
+      - name: Deploy Vercel
+        uses: amondnet/vercel-action@v20
         with:
           # TODO: Update Github Secrets with values
           vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
