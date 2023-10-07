@@ -32,8 +32,9 @@ Given an integer array of size `n`, find all elements that appear more than `�
 **Follow up:** Could you solve the problem in linear time and in `O(1)` space?
 ### Problem Analysis:
 
-- Very easy to come up with Time O(n) and Space O(n) solution with Dictionary.
-- Iterate through the list and construct a dictionary to get the count for each integer and return a list with 
+- Very easy to come up with Time O(n) and Space O(n) solutions with Dictionary.
+- Iterate through the list and construct a dictionary to get the count for each integer and return a list with integer with count more than n/3
+- **Note:** logically, this array should be at most of length 2.
 
 ## Similar Questions
 

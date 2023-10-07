@@ -31,11 +31,23 @@ Given an integer array `nums`, return `true` if any value appears **at least
 
 ### Problem Analysis:
 
+- initialise a dictionary to keep track of each element 
+- if any integer count appears more than once, return true
+- Time Complexity: O(n)
+
 ## Similar Questions
 
 ## Solutions:
 
 ```python
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        count= {}
+        for n in nums:
+            count[n] = count.get(n, 0) + 1
+            if count[n] > 1:
+                return True
+        return False
 ```
 
 ## Alternative Solution
