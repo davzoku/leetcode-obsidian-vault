@@ -1,5 +1,9 @@
 ---
 last_reviewed: 2023-10-07
+title: 217 Contains Duplicate - Easy
+excerpt: "-"
+tags:
+  - "#algorithm"
 ---
 ## Problem:
 
