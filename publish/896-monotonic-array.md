@@ -1,7 +1,7 @@
 ---
 last_reviewed: 2023-10-08
-title: 896 Monotonic Array. - Easy
-excerpt:
+title: 896 Monotonic Array - Easy
+excerpt: "-"
 ---
 ## Problem:
 
