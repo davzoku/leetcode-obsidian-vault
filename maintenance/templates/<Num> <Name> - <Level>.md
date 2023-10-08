@@ -1,17 +1,16 @@
 ---
 last_reviewed: "{{date}}"
 title: 
-excerpt:
+excerpt: 
+tags:
 ---
 ## Problem:
 
 ### Problem Analysis:
-
-## Similar Questions
 
 ## Solutions:
 
 ```python
 ```
 
-## Alternative Solution
+## Similar Questions

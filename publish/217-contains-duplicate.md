@@ -3,7 +3,8 @@ last_reviewed: 2023-10-07
 title: 217 Contains Duplicate - Easy
 excerpt: "-"
 tags:
-  - "#algorithm"
+  - neetcode
+  - arrays
 ---
 ## Problem:
 
@@ -35,8 +36,6 @@ Given an integer array `nums`, return `true` if any value appears **at least
 - if any integer count appears more than once, return true
 - Time Complexity: O(n)
 
-## Similar Questions
-
 ## Solutions:
 
 ```python
@@ -50,4 +49,4 @@ class Solution:
         return False
 ```
 
-## Alternative Solution
+## Similar Questions

@@ -3,7 +3,7 @@ last_reviewed: 2023-10-08
 title: 229 Majority Element II - Medium
 excerpt: "-"
 tags:
-  - "#algorithm"
+  - arrays
 ---
 ## Problem:
 
@@ -36,8 +36,6 @@ Given an integer array of size `n`, find all elements that appear more than `�
 - Iterate through the list and construct a dictionary to get the count for each integer and return a list with integer with count more than n/3
 - **Note:** logically, this array should be at most of length 2.
 
-## Similar Questions
-
 ## Solutions:
 
 ```python
@@ -58,3 +56,5 @@ class Solution:
 ## Alternative Solution
 
 - Boyer-Moore Majority Voting Algorithm
+
+## Similar Questions

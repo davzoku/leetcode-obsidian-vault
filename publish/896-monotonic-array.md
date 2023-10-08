@@ -2,6 +2,8 @@
 last_reviewed: 2023-10-08
 title: 896 Monotonic Array - Easy
 excerpt: "-"
+tags:
+  - arrays
 ---
 ## Problem:
 
@@ -33,10 +35,9 @@ Given an integer array `nums`, return `true` _if the given array is monotonic
 
 ### Problem Analysis:
 
-- On first thought, one may consider to perform 2 loops through the list; the first to check for increasing, the second for decreasing
-- we can 
-
-## Similar Questions
+- On first thought, one may consider performing 2 loops through the list; the first to check for increasing, the second for decreasing
+- we can initialize 2 flags and check for both condition in one go.
+- Time complexity: O(n)
 
 ## Solutions:
 
@@ -52,4 +53,4 @@ class Solution:
         return increasing or decreasing
 ```
 
-## Alternative Solution
+## Similar Questions
