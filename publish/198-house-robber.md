@@ -1,7 +1,7 @@
 ---
 last_reviewed: 2023-10-08
 title: 198 House Robber - Medium
-excerpt: 
+excerpt: "-"
 tags:
   - "#dynamic-programming"
 ---

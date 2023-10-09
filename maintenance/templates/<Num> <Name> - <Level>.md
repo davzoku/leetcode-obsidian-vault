@@ -1,7 +1,7 @@
 ---
 last_reviewed: "{{date}}"
 title: 
-excerpt: 
+excerpt: "-"
 tags:
 ---
 ## Problem:
