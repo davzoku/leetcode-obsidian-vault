@@ -1,6 +1,6 @@
 ---
 last_reviewed: 2023-10-09
-title: 213 House Robber II
+title: 213 House Robber II - Medium
 excerpt: "-"
 tags:
   - "#dynamic-programming"
