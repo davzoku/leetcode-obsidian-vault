@@ -5,6 +5,7 @@ excerpt: "-"
 tags:
   - graph
   - breadth-first-search
+  - solution
 ---
 ## Problem:
 

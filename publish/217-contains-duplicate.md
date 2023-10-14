@@ -5,6 +5,7 @@ excerpt: "-"
 tags:
   - neetcode
   - arrays
+  - solution
 ---
 ## Problem:
 

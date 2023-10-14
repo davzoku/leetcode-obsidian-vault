@@ -4,6 +4,7 @@ title: 896 Monotonic Array - Easy
 excerpt: "-"
 tags:
   - arrays
+  - solution
 ---
 ## Problem:
 

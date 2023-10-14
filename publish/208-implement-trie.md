@@ -4,6 +4,7 @@ title: 208 Implement Trie - Medium
 excerpt: "-"
 tags:
   - trie
+  - solution
 ---
 ## Problem:
 

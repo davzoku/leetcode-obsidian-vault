@@ -4,6 +4,7 @@ title: 1 Two Sum - Easy
 excerpt: "-"
 tags:
   - arrays
+  - solution
 ---
 ## Problem:
 

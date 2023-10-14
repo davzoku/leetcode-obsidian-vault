@@ -4,6 +4,7 @@ title: 198 House Robber - Medium
 excerpt: "-"
 tags:
   - "#dynamic-programming"
+  - solution
 ---
 ## Problem
 

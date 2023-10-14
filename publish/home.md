@@ -1,6 +1,7 @@
 ---
 title: My Leetcode Solutions
-excerpt: Hello World
+excerpt: "-"
+"#tags":
 ---
 ## Solved
 

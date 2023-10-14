@@ -4,6 +4,7 @@ title: 229 Majority Element II - Medium
 excerpt: "-"
 tags:
   - arrays
+  - solution
 ---
 ## Problem:
 

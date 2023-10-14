@@ -4,6 +4,7 @@ title: 53 Maximum Subarray - Medium
 excerpt: "-"
 tags:
   - greedy
+  - solution
 ---
 ## Problem:
 

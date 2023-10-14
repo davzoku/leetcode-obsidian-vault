@@ -4,6 +4,7 @@ title: 337 House Robber - Medium
 excerpt: "-"
 tags:
   - "#binary-tree"
+  - solution
 ---
 ## Problem:
 The thief has found himself a new place for his thievery again. There is only one entrance to this area, called `root`.
