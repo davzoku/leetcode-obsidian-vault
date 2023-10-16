@@ -19,4 +19,5 @@ excerpt: "-"
 - [[494-target-sum]]
 - [[509-fibonacci-number]]
 - [[896-monotonic-array]]
+- [[983-minimum-cost-for-tickets]]
 - [[1646-get-maximum-in-generated-array]]
