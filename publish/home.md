@@ -8,6 +8,7 @@ excerpt: "-"
 - [[1-two-sum]]
 - [[53-maximum-subarray]]
 - [[70-climbing-stairs]]
+- [[91-decode-ways]]
 - [[118-pascals-triangle]]
 - [[125-valid-palindrome]]
 - [[198-house-robber]]
