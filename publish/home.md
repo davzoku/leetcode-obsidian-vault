@@ -7,6 +7,7 @@ excerpt: "-"
 
 - [[1-two-sum]]
 - [[53-maximum-subarray]]
+- [[69-sqrt-x]]
 - [[70-climbing-stairs]]
 - [[91-decode-ways]]
 - [[118-pascals-triangle]]
