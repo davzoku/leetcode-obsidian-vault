@@ -47,22 +47,19 @@ You can return the answer in any order.
 ## Solutions:
 
 ```python
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        map = {} # value, index
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        map = {} # value:index
 
         for i, n in enumerate(nums):
             diff = target - n
             if diff in map:
-                # return first index, current index
                 return [map[diff], i]
             map[n] = i
+            
         return
-    ```
+```
 
 ## Similar Questions
+
+- [[167-two-sum-ii]]

@@ -12,6 +12,7 @@ excerpt: "-"
 - [[91-decode-ways]]
 - [[118-pascals-triangle]]
 - [[125-valid-palindrome]]
+- [[167-two-sum-ii]]
 - [[198-house-robber]]
 - [[200-number-of-islands]]
 - [[213-house-robber-ii]]
