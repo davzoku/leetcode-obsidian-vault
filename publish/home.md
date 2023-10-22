@@ -22,6 +22,7 @@ excerpt: "-"
 - [[494-target-sum]]
 - [[509-fibonacci-number]]
 - [[543-diameter-of-binary-tree]]
+- [[617-merge-two-binary-tree]]
 - [[896-monotonic-array]]
 - [[983-minimum-cost-for-tickets]]
 - [[1646-get-maximum-in-generated-array]]
