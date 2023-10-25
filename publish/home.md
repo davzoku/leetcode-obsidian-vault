@@ -18,6 +18,7 @@ excerpt: "-"
 - [[213-house-robber-ii]]
 - [[217-contains-duplicate]]
 - [[229-majority-element-ii]]
+- [[231-power-of-two]]
 - [[337-house-robber-iii]]
 - [[342-power-of-four]]
 - [[494-target-sum]]

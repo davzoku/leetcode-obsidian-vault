@@ -45,3 +45,5 @@ class Solution:
 ```
 
 ## Similar Questions
+
+[[231-power-of-two]]
