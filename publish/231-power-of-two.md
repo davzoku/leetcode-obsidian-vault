@@ -51,6 +51,14 @@ class Solution:
         return n>0 and (n & (n - 1)) == 0
 ```
 
+or 
+
+```python
+class Solution:
+    def isPowerOfTwo(self, n: int) -> bool:
+        return n > 0 and int(math.log10(n) / math.log10(2)) == (math.log10(n) / math.log10(2))
+```
 ## Similar Questions
 
+[[326-power-of-three]]
 [[342-power-of-four]]

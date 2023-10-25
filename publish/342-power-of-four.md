@@ -47,3 +47,4 @@ class Solution:
 ## Similar Questions
 
 [[231-power-of-two]]
+[[326-power-of-three]]
