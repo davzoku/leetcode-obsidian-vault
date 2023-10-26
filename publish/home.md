@@ -11,6 +11,7 @@ excerpt: "-"
 - [[70-climbing-stairs]]
 - [[91-decode-ways]]
 - [[118-pascals-triangle]]
+- [[119-pascals-triangle-ii]]
 - [[125-valid-palindrome]]
 - [[167-two-sum-ii]]
 - [[198-house-robber]]
