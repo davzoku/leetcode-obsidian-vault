@@ -7,6 +7,7 @@ excerpt: "-"
 
 - [[1-two-sum]]
 - [[53-maximum-subarray]]
+- [[66-plus-one]]
 - [[69-sqrt-x]]
 - [[70-climbing-stairs]]
 - [[91-decode-ways]]
@@ -16,6 +17,7 @@ excerpt: "-"
 - [[167-two-sum-ii]]
 - [[198-house-robber]]
 - [[200-number-of-islands]]
+- [[202-happy-number]]
 - [[213-house-robber-ii]]
 - [[217-contains-duplicate]]
 - [[219-contains-duplicate-ii]]
