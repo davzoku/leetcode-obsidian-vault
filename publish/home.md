@@ -15,6 +15,7 @@ excerpt: "-"
 - [[119-pascals-triangle-ii]]
 - [[125-valid-palindrome]]
 - [[167-two-sum-ii]]
+- [[191-number-of-1-bits]]
 - [[198-house-robber]]
 - [[200-number-of-islands]]
 - [[202-happy-number]]
