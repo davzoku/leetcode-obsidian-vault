@@ -6,6 +6,7 @@ excerpt: "-"
 ## Solved
 
 - [[1-two-sum]]
+- [[20-valid-parentheses]]
 - [[53-maximum-subarray]]
 - [[66-plus-one]]
 - [[69-sqrt-x]]
