@@ -34,4 +34,5 @@ excerpt: "-"
 - [[617-merge-two-binary-tree]]
 - [[896-monotonic-array]]
 - [[983-minimum-cost-for-tickets]]
+- [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
 - [[1646-get-maximum-in-generated-array]]
