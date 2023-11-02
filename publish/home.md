@@ -32,6 +32,7 @@ excerpt: "-"
 - [[509-fibonacci-number]]
 - [[543-diameter-of-binary-tree]]
 - [[617-merge-two-binary-tree]]
+- [[682-baseball-game]]
 - [[896-monotonic-array]]
 - [[983-minimum-cost-for-tickets]]
 - [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
