@@ -39,4 +39,5 @@ excerpt: "-"
 - [[1512-number-of-good-pairs]]
 - [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
 - [[1646-get-maximum-in-generated-array]]
+- [[1845-seat-reservation-manager]]
 - [[2101-detonate-the-maximum-bombs]]
