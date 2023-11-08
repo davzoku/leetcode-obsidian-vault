@@ -40,5 +40,6 @@ excerpt: "-"
 - [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
 - [[1646-get-maximum-in-generated-array]]
 - [[1845-seat-reservation-manager]]
+- [[1899-merge-triplets-to-form-target-triplet]]
 - [[1921-eliminate-maximum-number-of-monsters]]
 - [[2101-detonate-the-maximum-bombs]]
