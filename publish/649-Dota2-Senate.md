@@ -1,6 +1,6 @@
 ---
 last_reviewed: 2023-11-04
-title: 649 Dota2 Senate - Medium
+title: 649 Dota 2 Senate - Medium
 excerpt: "-"
 tags:
   - solution
