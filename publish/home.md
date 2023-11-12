@@ -38,6 +38,7 @@ excerpt: "-"
 - [[682-baseball-game]]
 - [[896-monotonic-array]]
 - [[983-minimum-cost-for-tickets]]
+- [[1396-design-underground-system]]
 - [[1512-number-of-good-pairs]]
 - [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
 - [[1646-get-maximum-in-generated-array]]
