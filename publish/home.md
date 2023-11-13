@@ -37,6 +37,7 @@ excerpt: "-"
 - [[649-dota2-senate]]
 - [[682-baseball-game]]
 - [[896-monotonic-array]]
+- [[946-validate-stack-sequences]]
 - [[983-minimum-cost-for-tickets]]
 - [[1396-design-underground-system]]
 - [[1512-number-of-good-pairs]]
