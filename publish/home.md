@@ -45,6 +45,7 @@ excerpt: "-"
 - [[1646-get-maximum-in-generated-array]]
 - [[1759-count-number-of-homogenous-substrings]]
 - [[1845-seat-reservation-manager]]
+- [[1846-maximum-element-after-decreasing-and-rearranging]]
 - [[1899-merge-triplets-to-form-target-triplet]]
 - [[1921-eliminate-maximum-number-of-monsters]]
 - [[1930-unique-length-3-palindromic-subsequences]]
