@@ -44,6 +44,7 @@ excerpt: "-"
 - [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
 - [[1646-get-maximum-in-generated-array]]
 - [[1759-count-number-of-homogenous-substrings]]
+- [[1838-frequency-of-the-most-frequent-element]]
 - [[1845-seat-reservation-manager]]
 - [[1846-maximum-element-after-decreasing-and-rearranging]]
 - [[1877-minimize-maximum-pair-sum-in-array]]
