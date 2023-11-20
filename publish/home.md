@@ -54,3 +54,4 @@ excerpt: "-"
 - [[1930-unique-length-3-palindromic-subsequences]]
 - [[1980-find-unique-binary-string]]
 - [[2101-detonate-the-maximum-bombs]]
+- [[2391-minimum-amount-of-time-to-collect-garbage]]
