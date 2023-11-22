@@ -40,6 +40,7 @@ excerpt: "-"
 - [[946-validate-stack-sequences]]
 - [[983-minimum-cost-for-tickets]]
 - [[1396-design-underground-system]]
+- [[1424-diagonal-traverse-ii]]
 - [[1512-number-of-good-pairs]]
 - [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
 - [[1646-get-maximum-in-generated-array]]
