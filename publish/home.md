@@ -43,6 +43,7 @@ excerpt: "-"
 - [[1424-diagonal-traverse-ii]]
 - [[1512-number-of-good-pairs]]
 - [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
+- [[1561-maximum-number-of-coins-you-can-get]]
 - [[1630-arithmetic-subarrays]]
 - [[1646-get-maximum-in-generated-array]]
 - [[1759-count-number-of-homogenous-substrings]]
