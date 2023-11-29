@@ -40,6 +40,7 @@ excerpt: "-"
 - [[935-knight-dialer]]
 - [[946-validate-stack-sequences]]
 - [[983-minimum-cost-for-tickets]]
+- [[1232-check-if-it-is-a-straight-line]]
 - [[1396-design-underground-system]]
 - [[1424-diagonal-traverse-ii]]
 - [[1512-number-of-good-pairs]]
