@@ -39,6 +39,7 @@ excerpt: "-"
 - [[617-merge-two-binary-tree]]
 - [[649-dota2-senate]]
 - [[682-baseball-game]]
+- [[888-fair-candy-swap]]
 - [[896-monotonic-array]]
 - [[935-knight-dialer]]
 - [[946-validate-stack-sequences]]
