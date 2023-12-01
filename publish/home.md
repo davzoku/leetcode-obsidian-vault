@@ -52,6 +52,7 @@ excerpt: "-"
 - [[1561-maximum-number-of-coins-you-can-get]]
 - [[1630-arithmetic-subarrays]]
 - [[1646-get-maximum-in-generated-array]]
+- [[1662-check-if-two-string-arrays-are-equivalent]]
 - [[1759-count-number-of-homogenous-substrings]]
 - [[1814-count-nice-pairs-in-an-array]]
 - [[1838-frequency-of-the-most-frequent-element]]
