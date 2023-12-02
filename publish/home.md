@@ -44,6 +44,7 @@ excerpt: "-"
 - [[935-knight-dialer]]
 - [[946-validate-stack-sequences]]
 - [[983-minimum-cost-for-tickets]]
+- [[1160-find-words-that-can-be-formed-by-characters]]
 - [[1232-check-if-it-is-a-straight-line]]
 - [[1396-design-underground-system]]
 - [[1424-diagonal-traverse-ii]]
