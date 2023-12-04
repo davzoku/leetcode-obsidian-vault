@@ -68,4 +68,5 @@ excerpt: "-"
 - [[1980-find-unique-binary-string]]
 - [[2101-detonate-the-maximum-bombs]]
 - [[2147-number-of-ways-to-divide-a-long-corridor]]
+- [[2264-largest-3-same-digit-number-in-string]]
 - [[2391-minimum-amount-of-time-to-collect-garbage]]
