@@ -1,6 +1,6 @@
 ---
 last_reviewed: 2023-12-05
-title: 
+title: 1688 Count of Matches in Tournament - Easy
 excerpt: "-"
 tags:
   - solution
