@@ -65,6 +65,7 @@ excerpt: "-"
 - [[1877-minimize-maximum-pair-sum-in-array]]
 - [[1887-reduce-operations-to-make-the-array-elements-equal]]
 - [[1899-merge-triplets-to-form-target-triplet]]
+- [[1903-largest-odd-number-in-string]]
 - [[1921-eliminate-maximum-number-of-monsters]]
 - [[1930-unique-length-3-palindromic-subsequences]]
 - [[1980-find-unique-binary-string]]
