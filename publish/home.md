@@ -38,6 +38,7 @@ excerpt: "-"
 - [[543-diameter-of-binary-tree]]
 - [[617-merge-two-binary-tree]]
 - [[649-dota2-senate]]
+- [[606-construct-string-from-binary-tree]]
 - [[682-baseball-game]]
 - [[888-fair-candy-swap]]
 - [[896-monotonic-array]]
