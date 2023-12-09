@@ -15,6 +15,7 @@ excerpt: "-"
 - [[69-sqrt-x]]
 - [[70-climbing-stairs]]
 - [[91-decode-ways]]
+- [[94-binary-tree-inorder-traversal]]
 - [[118-pascals-triangle]]
 - [[119-pascals-triangle-ii]]
 - [[125-valid-palindrome]]
