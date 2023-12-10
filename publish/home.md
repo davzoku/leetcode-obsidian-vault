@@ -41,6 +41,7 @@ excerpt: "-"
 - [[649-dota2-senate]]
 - [[606-construct-string-from-binary-tree]]
 - [[682-baseball-game]]
+- [[867-transpose-matrix]]
 - [[888-fair-candy-swap]]
 - [[896-monotonic-array]]
 - [[935-knight-dialer]]
