@@ -53,6 +53,7 @@ excerpt: "-"
 - [[1287-element-appearing-more-than-25-in-sorted-array]]
 - [[1396-design-underground-system]]
 - [[1424-diagonal-traverse-ii]]
+- [[1436-destination-city]]
 - [[1464-maximum-product-of-two-elements-in-an-array]]
 - [[1512-number-of-good-pairs]]
 - [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
