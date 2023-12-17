@@ -35,6 +35,7 @@ excerpt: "-"
 - [[337-house-robber-iii]]
 - [[342-power-of-four]]
 - [[374-guess-number-higher-or-lower]]
+- [[389-find-the-difference]]
 - [[494-target-sum]]
 - [[509-fibonacci-number]]
 - [[543-diameter-of-binary-tree]]
