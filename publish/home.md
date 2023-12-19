@@ -42,6 +42,7 @@ excerpt: "-"
 - [[617-merge-two-binary-tree]]
 - [[649-dota2-senate]]
 - [[606-construct-string-from-binary-tree]]
+- [[661-image-smoother]]
 - [[682-baseball-game]]
 - [[867-transpose-matrix]]
 - [[888-fair-candy-swap]]
