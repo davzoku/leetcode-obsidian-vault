@@ -85,3 +85,4 @@ excerpt: "-"
 - [[2264-largest-3-same-digit-number-in-string]]
 - [[2391-minimum-amount-of-time-to-collect-garbage]]
 - [[2353-design-a-food-rating-system]]
+- [[2706-buy-two-chocolates]]
