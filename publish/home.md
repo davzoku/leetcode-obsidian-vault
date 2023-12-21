@@ -63,6 +63,7 @@ excerpt: "-"
 - [[1561-maximum-number-of-coins-you-can-get]]
 - [[1582-special-positions-in-a-binary-matrix]]
 - [[1630-arithmetic-subarrays]]
+- [[1637-widest-vertical-area-between-two-points-containing-no-points]]
 - [[1646-get-maximum-in-generated-array]]
 - [[1662-check-if-two-string-arrays-are-equivalent]]
 - [[1688-count-of-matches-in-tournament]]
