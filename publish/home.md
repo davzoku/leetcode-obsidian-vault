@@ -55,6 +55,7 @@ excerpt: "-"
 - [[1266-minimum-time-visiting-all-points]]
 - [[1287-element-appearing-more-than-25-in-sorted-array]]
 - [[1396-design-underground-system]]
+- [[1422-maximum-score-after-splitting-a-string]]
 - [[1424-diagonal-traverse-ii]]
 - [[1436-destination-city]]
 - [[1464-maximum-product-of-two-elements-in-an-array]]
