@@ -7,6 +7,7 @@ excerpt: "-"
 
 - [[1-two-sum]]
 - [[2-add-two-numbers]]
+- [[6-zigzag-conversion]]
 - [[14-longest-common-prefix]]
 - [[20-valid-parentheses]]
 - [[35-search-insert-position]]
