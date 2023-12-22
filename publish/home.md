@@ -32,6 +32,7 @@ excerpt: "-"
 - [[229-majority-element-ii]]
 - [[231-power-of-two]]
 - [[242-valid-anagram]]
+- [[268-missing-number]]
 - [[278-first-bad-version]]
 - [[326-power-of-three]]
 - [[337-house-robber-iii]]

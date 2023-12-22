@@ -36,18 +36,33 @@ Given an unsorted integer array `nums`, return the smallest missing positive in
 - `-231 <= nums[i] <= 231 - 1`
 
 ### Problem Analysis:
-#### High-Level Strategy:
+####   Solution 1:
+
+##### High-Level Strategy:
+
+- Sorts the input list `nums` in ascending order.
+- Iterates through the sorted list and finds the first missing positive integer by comparing each element with the current expected positive integer (`res`).
+- Increments `res` until a missing positive integer is found.
+
+##### Complexity:
+
+- **Time Complexity:** O(N log N), where N is the length of the input list `nums` due to sorting.
+- **Space Complexity:** O(1), as no extra space is used except for variables.
+
+#### Solution 2:
+
+##### High-Level Strategy:
 
 - Utilizes the array itself to represent the solution space `[1, 2, ..., len(nums)+1]`.
 - Iterates through the array, placing each element in its correct position if it falls within the range `[1, len(nums)]`.
 - Finds the first position where the number is not equal to its index + 1, which represents the first missing positive integer.
 
-#### Complexity:
+##### Complexity:
 
 - **Time Complexity:** O(N), where N is the length of the input list `nums`. Each element is processed at most twice.
 - **Space Complexity:** O(1), as no extra space is used except for variables.
 
-### Comparison:
+#### Comparison:
 
 - Both solutions aim to find the first missing positive integer.
 - Solution 2 has a better time complexity since it avoids the sorting step and **meets the requirements of the question**
@@ -91,3 +106,4 @@ class Solution:
         return n + 1
 ```
 ## Similar Questions
+- [[268-missing-number]]
