@@ -11,6 +11,7 @@ excerpt: "-"
 - [[14-longest-common-prefix]]
 - [[20-valid-parentheses]]
 - [[35-search-insert-position]]
+- [[41-find-missing-positive]]
 - [[53-maximum-subarray]]
 - [[66-plus-one]]
 - [[69-sqrt-x]]
