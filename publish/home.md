@@ -62,6 +62,7 @@ excerpt: "-"
 - [[1424-diagonal-traverse-ii]]
 - [[1436-destination-city]]
 - [[1464-maximum-product-of-two-elements-in-an-array]]
+- [[1496-path-crossing]]
 - [[1512-number-of-good-pairs]]
 - [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
 - [[1561-maximum-number-of-coins-you-can-get]]
