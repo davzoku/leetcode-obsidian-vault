@@ -73,6 +73,7 @@ excerpt: "-"
 - [[1662-check-if-two-string-arrays-are-equivalent]]
 - [[1688-count-of-matches-in-tournament]]
 - [[1716-calculate-money-in-leetcode-bank]]
+- [[1758-minimum-changes-to-make-alternating-binary-string]]
 - [[1759-count-number-of-homogenous-substrings]]
 - [[1814-count-nice-pairs-in-an-array]]
 - [[1838-frequency-of-the-most-frequent-element]]
