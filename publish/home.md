@@ -53,6 +53,7 @@ excerpt: "-"
 - [[935-knight-dialer]]
 - [[946-validate-stack-sequences]]
 - [[983-minimum-cost-for-tickets]]
+- [[1155-number-of-dice-rolls-with-target-sum]]
 - [[1160-find-words-that-can-be-formed-by-characters]]
 - [[1232-check-if-it-is-a-straight-line]]
 - [[1266-minimum-time-visiting-all-points]]
