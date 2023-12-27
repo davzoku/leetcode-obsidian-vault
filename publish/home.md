@@ -67,6 +67,7 @@ excerpt: "-"
 - [[1512-number-of-good-pairs]]
 - [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
 - [[1561-maximum-number-of-coins-you-can-get]]
+- [[1578-minimum-time-to-make-rope-colorful]]
 - [[1582-special-positions-in-a-binary-matrix]]
 - [[1630-arithmetic-subarrays]]
 - [[1637-widest-vertical-area-between-two-points-containing-no-points]]
