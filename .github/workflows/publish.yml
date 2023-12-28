@@ -33,6 +33,7 @@ jobs:
           rm -rf temp_blog
           rm -rf temp_md
           ls
+          npm i
       # - name: Deploy Netlify
       #   uses: thundermiracle/netlify-deploy@v3
       #   with:
