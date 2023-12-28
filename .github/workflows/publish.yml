@@ -32,8 +32,18 @@ jobs:
           cp -r temp_blog/. .
           rm -rf temp_blog
           rm -rf temp_md
-          ls
           npm i
+      - name: Deploy to Netlify
+        uses: South-Paw/action-netlify-cli@v2
+        id: netlify
+        with:
+          # note that the --json flag has been passed so we can parse outputs
+          # args: deploy --build --prod --dir './.next' --message 'production [${{ github.sha }}]'
+          # https://paulonteri.com/thoughts/how-to/deploy-nextjs-to-netlify-manually
+          args: deploy --build --prod
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
       # - name: Deploy Netlify
       #   uses: thundermiracle/netlify-deploy@v3
       #   with:
@@ -64,12 +74,3 @@ jobs:
       #     NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
       #     NETLIFY_DEPLOY_TO_PROD: true
       #     BUILD_DIRECTORY: ".next"
-      - name: Deploy to Netlify
-        uses: South-Paw/action-netlify-cli@v2
-        id: netlify
-        with:
-          # note that the --json flag has been passed so we can parse outputs
-          args: deploy --build --prod
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
