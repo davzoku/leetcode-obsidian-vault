@@ -65,6 +65,7 @@ excerpt: "-"
 - [[1464-maximum-product-of-two-elements-in-an-array]]
 - [[1496-path-crossing]]
 - [[1512-number-of-good-pairs]]
+- [[1531-string-compression-ii]]
 - [[1557-minimum-number-of-vertices-to-reach-all-nodes]]
 - [[1561-maximum-number-of-coins-you-can-get]]
 - [[1578-minimum-time-to-make-rope-colorful]]
