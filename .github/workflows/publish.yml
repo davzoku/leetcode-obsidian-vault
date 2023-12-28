@@ -32,15 +32,14 @@ jobs:
           cp -r temp_blog/. .
           rm -rf temp_blog
           rm -rf temp_md
-          npm run build
-      # - name: Deploy Vercel
-      #   uses: amondnet/vercel-action@v20
-      #   with:
-      #     # TODO: Update Github Secrets with values
-      #     vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
-      #     vercel-org-id: ${{ secrets.VERCEL_ORG_ID }} # Required
-      #     vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }} # Required
-      #     vercel-args: "--prod" #Optional
+      - name: Deploy Vercel
+        uses: amondnet/vercel-action@v20
+        with:
+          # TODO: Update Github Secrets with values
+          vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }} # Required
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }} # Required
+          vercel-args: "--prod" #Optional
       #
       # - name: Deploy to Netlify
       #   uses: jsmrcaga/action-netlify-deploy@v2.0.0
@@ -50,12 +49,12 @@ jobs:
       #     NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
       #     NETLIFY_DEPLOY_TO_PROD: true
       #     BUILD_DIRECTORY: ".next"
-      - name: Deploy to Netlify
-        uses: South-Paw/action-netlify-cli@v2
-        id: netlify
-        with:
-          # note that the --json flag has been passed so we can parse outputs
-          args: deploy --json --prod --dir './.next' --message 'production [${{ github.sha }}]'
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+      # - name: Deploy to Netlify
+      #   uses: South-Paw/action-netlify-cli@v2
+      #   id: netlify
+      #   with:
+      #     # note that the --json flag has been passed so we can parse outputs
+      #     args: deploy --json --prod --dir './.next' --message 'production [${{ github.sha }}]'
+      #   env:
+      #     NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      #     NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
