@@ -32,19 +32,21 @@ jobs:
           cp -r temp_blog/. .
           rm -rf temp_blog
           rm -rf temp_md
-      - name: Deploy Netlify
-        uses: thundermiracle/netlify-deploy@v3
-        with:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN}}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID}}
-          deploy-dir: "./next"
-          # extra-cache-path: |
-          #   .cache
-          #   public
-          production: true
-          cache-strategy: npm
-          install-command: npm install --production
-          build-command: npm run build
+          npm i
+          npm run build
+      # - name: Deploy Netlify
+      #   uses: thundermiracle/netlify-deploy@v3
+      #   with:
+      #     NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN}}
+      #     NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID}}
+      #     deploy-dir: "./next"
+      #     # extra-cache-path: |
+      #     #   .cache
+      #     #   public
+      #     production: true
+      #     cache-strategy: npm
+      #     install-command: npm install --production
+      #     build-command: npm run build
       # - name: Deploy Vercel
       #   uses: amondnet/vercel-action@v20
       #   with:
@@ -62,12 +64,12 @@ jobs:
       #     NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
       #     NETLIFY_DEPLOY_TO_PROD: true
       #     BUILD_DIRECTORY: ".next"
-      # - name: Deploy to Netlify
-      #   uses: South-Paw/action-netlify-cli@v2
-      #   id: netlify
-      #   with:
-      #     # note that the --json flag has been passed so we can parse outputs
-      #     args: deploy --json --prod --dir './.next' --message 'production [${{ github.sha }}]'
-      #   env:
-      #     NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-      #     NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+      - name: Deploy to Netlify
+        uses: South-Paw/action-netlify-cli@v2
+        id: netlify
+        with:
+          # note that the --json flag has been passed so we can parse outputs
+          args: deploy --json --prod --dir './.next' --message 'production [${{ github.sha }}]'
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
