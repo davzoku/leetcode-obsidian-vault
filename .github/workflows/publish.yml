@@ -1,6 +1,6 @@
 name: Publish Markdown Files
 env:
-  BLOG_REPO: matthewwong525/linked-blog-starter
+  BLOG_REPO: davzoku/leetcode-obsidian-frontend
   PUBLISH_DIR: publish
 on:
   workflow_dispatch:
@@ -32,8 +32,6 @@ jobs:
           cp -r temp_blog/. .
           rm -rf temp_blog
           rm -rf temp_md
-          npm i
-          npm run build
       # - name: Deploy Netlify
       #   uses: thundermiracle/netlify-deploy@v3
       #   with:
@@ -69,7 +67,7 @@ jobs:
         id: netlify
         with:
           # note that the --json flag has been passed so we can parse outputs
-          args: deploy --json --prod --dir './.next' --message 'production [${{ github.sha }}]'
+          args: deploy --json --build --prod --dir './.next' --message 'production [${{ github.sha }}]'
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
