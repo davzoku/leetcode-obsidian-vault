@@ -32,18 +32,18 @@ jobs:
           cp -r temp_blog/. .
           rm -rf temp_blog
           rm -rf temp_md
-      - name: Deploy Vercel
-        uses: amondnet/vercel-action@v20
-        with:
-          # TODO: Update Github Secrets with values
-          vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
-          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }} # Required
-          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }} # Required
-          vercel-args: "--prod" #Optional
-      # - name: Deploy to Netlify
-      #   uses: jsmrcaga/action-netlify-deploy@v2.0.0
+      # - name: Deploy Vercel
+      #   uses: amondnet/vercel-action@v20
       #   with:
       #     # TODO: Update Github Secrets with values
-      #     NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-      #     NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-      #     NETLIFY_DEPLOY_TO_PROD: true
+      #     vercel-token: ${{ secrets.VERCEL_TOKEN }} # Required
+      #     vercel-org-id: ${{ secrets.VERCEL_ORG_ID }} # Required
+      #     vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }} # Required
+      #     vercel-args: "--prod" #Optional
+      - name: Deploy to Netlify
+        uses: jsmrcaga/action-netlify-deploy@v2.0.0
+        with:
+          # TODO: Update Github Secrets with values
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_DEPLOY_TO_PROD: true
