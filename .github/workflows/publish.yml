@@ -32,6 +32,7 @@ jobs:
           cp -r temp_blog/. .
           rm -rf temp_blog
           rm -rf temp_md
+          npm run build
       # - name: Deploy Vercel
       #   uses: amondnet/vercel-action@v20
       #   with:
@@ -41,11 +42,20 @@ jobs:
       #     vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }} # Required
       #     vercel-args: "--prod" #Optional
       #
+      # - name: Deploy to Netlify
+      #   uses: jsmrcaga/action-netlify-deploy@v2.0.0
+      #   with:
+      #     # TODO: Update Github Secrets with values
+      #     NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      #     NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+      #     NETLIFY_DEPLOY_TO_PROD: true
+      #     BUILD_DIRECTORY: ".next"
       - name: Deploy to Netlify
-        uses: jsmrcaga/action-netlify-deploy@v2.0.0
+        uses: South-Paw/action-netlify-cli@v2
+        id: netlify
         with:
-          # TODO: Update Github Secrets with values
+          # note that the --json flag has been passed so we can parse outputs
+          args: deploy --json --prod --dir './.next' --message 'production [${{ github.sha }}]'
+        env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-          NETLIFY_DEPLOY_TO_PROD: true
-          BUILD_DIRECTORY: ".next"
