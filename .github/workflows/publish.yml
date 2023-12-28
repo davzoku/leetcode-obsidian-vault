@@ -32,6 +32,7 @@ jobs:
           cp -r temp_blog/. .
           rm -rf temp_blog
           rm -rf temp_md
+          ls
       # - name: Deploy Netlify
       #   uses: thundermiracle/netlify-deploy@v3
       #   with:
@@ -67,7 +68,7 @@ jobs:
         id: netlify
         with:
           # note that the --json flag has been passed so we can parse outputs
-          args: deploy --json --build --prod --dir './.next' --message 'production [${{ github.sha }}]'
+          args: deploy --build --prod
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
