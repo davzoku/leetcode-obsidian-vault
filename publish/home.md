@@ -3,7 +3,19 @@ title: My Leetcode Solutions
 excerpt: Map of Content (MOC) of my Leetcode Solutions
 "#tags": "#moc"
 ---
-## Solved
+## Hey Coders!
+
+Greetings and welcome to my Leetcode Solutions vault! This corner of the web is fuelled directly from my [Obsidian Vault](https://github.com/davzoku/leetcode-obsidian-vault) and served up with the magic of [davzoku/leetcode-obsidian-frontend](https://github.com/davzoku/leetcode-obsidian-frontend)
+
+### What's the Plan?
+
+Let's break it down – my mission here is to dive into LeetCode questions, get cozy with them, and understand the ninja moves to crack these coding conundrums.
+
+- **Daily Dive:** I'm committing 30 minutes each day to tackle a question, usually the daily one.
+- **Expectations**: Expect solutions, explanations, and the nitty-gritty of time and space complexities.
+- **Honesty Check:** If I hit a roadblock within that timeframe, I'm not shy to peek at solutions on YouTube or Leetcode. Learning is the goal, right?
+- **Marathon Mentality:** Remember, this is a marathon, not a sprint. Every day we pick up something new – that's the win.
+### Solved Problems
 
 - [[1-two-sum]]
 - [[2-add-two-numbers]]
