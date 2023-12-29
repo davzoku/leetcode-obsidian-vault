@@ -12,4 +12,4 @@ Matthew published the website on Vercel, while I published it on Netlify. This i
 
 ## Screenshots
 
-![homepage.png](/assets/screenshots/homepage.png)
+![homepage.png](/assets/screenshots/homepage-wide.png)
