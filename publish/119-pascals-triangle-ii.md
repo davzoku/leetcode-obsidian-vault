@@ -1,6 +1,6 @@
 ---
 last_reviewed: 2023-10-26
-title: 
+title: 119 Pascal's Triangle II - Easy
 excerpt: "-"
 tags:
   - solution

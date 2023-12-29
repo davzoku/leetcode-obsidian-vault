@@ -1,7 +1,7 @@
 ---
 title: My Leetcode Solutions
-excerpt: "-"
-"#tags":
+excerpt: Map of Content (MOC) of my Leetcode Solutions
+"#tags": "#moc"
 ---
 ## Solved
 

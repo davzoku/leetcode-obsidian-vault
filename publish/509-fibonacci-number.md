@@ -1,6 +1,6 @@
 ---
 last_reviewed: 2023-10-15
-title: "509"
+title: 509 Fibonacci Number - Easy
 excerpt: "-"
 tags:
   - solution
