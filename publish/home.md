@@ -3,9 +3,12 @@ title: My Leetcode Solutions
 excerpt: Map of Content (MOC) of my Leetcode Solutions
 "#tags": "#moc"
 ---
+
 ## Hey Coders!
 
-Greetings and welcome to my Leetcode Solutions vault! This corner of the web is fuelled directly from my [Obsidian Vault](https://github.com/davzoku/leetcode-obsidian-vault) and served up with the magic of [davzoku/leetcode-obsidian-frontend](https://github.com/davzoku/leetcode-obsidian-frontend)
+Greetings and welcome to my Leetcode Solutions vault! This corner of the web is fuelled directly from my [Obsidian Vault](https://github.com/davzoku/leetcode-obsidian-vault) and served up with the magic of [Next.js](https://github.com/davzoku/leetcode-obsidian-frontend).
+
+Curious how I built this? Check [[how-i-built-this-website]]
 
 ### What's the Plan?
 
@@ -15,6 +18,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - **Expectations**: Expect solutions, explanations, and the nitty-gritty of time and space complexities.
 - **Honesty Check:** If I hit a roadblock within that timeframe, I'm not shy to peek at solutions on YouTube or Leetcode. Learning is the goal, right?
 - **Marathon Mentality:** Remember, this is a marathon, not a sprint. Every day we pick up something new – that's the win.
+
 ### Solved Problems
 
 - [[1-two-sum]]
