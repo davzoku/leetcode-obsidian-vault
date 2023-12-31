@@ -86,6 +86,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[1561-maximum-number-of-coins-you-can-get]]
 - [[1578-minimum-time-to-make-rope-colorful]]
 - [[1582-special-positions-in-a-binary-matrix]]
+- [[1624-largest-substring-between-two-equal-characters]]
 - [[1630-arithmetic-subarrays]]
 - [[1637-widest-vertical-area-between-two-points-containing-no-points]]
 - [[1646-get-maximum-in-generated-array]]
