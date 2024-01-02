@@ -114,4 +114,5 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[2264-largest-3-same-digit-number-in-string]]
 - [[2391-minimum-amount-of-time-to-collect-garbage]]
 - [[2353-design-a-food-rating-system]]
+- [[2610-convert-an-array-into-a-2d-array-with-conditions]]
 - [[2706-buy-two-chocolates]]
