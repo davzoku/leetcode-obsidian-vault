@@ -110,6 +110,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[1930-unique-length-3-palindromic-subsequences]]
 - [[1980-find-unique-binary-string]]
 - [[2101-detonate-the-maximum-bombs]]
+- [[2125-number-of-laser-beams-in-a-bank]]
 - [[2147-number-of-ways-to-divide-a-long-corridor]]
 - [[2264-largest-3-same-digit-number-in-string]]
 - [[2391-minimum-amount-of-time-to-collect-garbage]]
