@@ -117,3 +117,4 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[2353-design-a-food-rating-system]]
 - [[2610-convert-an-array-into-a-2d-array-with-conditions]]
 - [[2706-buy-two-chocolates]]
+- [[2870-minimum-number-of-operations-to-make-array-empty]]
