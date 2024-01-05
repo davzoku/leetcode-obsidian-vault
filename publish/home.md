@@ -50,6 +50,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[242-valid-anagram]]
 - [[268-missing-number]]
 - [[278-first-bad-version]]
+- [[300-longest-increasing-subsequence]]
 - [[326-power-of-three]]
 - [[337-house-robber-iii]]
 - [[342-power-of-four]]
