@@ -66,6 +66,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[661-image-smoother]]
 - [[682-baseball-game]]
 - [[867-transpose-matrix]]
+- [[872-leaf-similar-trees]]
 - [[888-fair-candy-swap]]
 - [[896-monotonic-array]]
 - [[935-knight-dialer]]
