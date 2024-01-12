@@ -97,6 +97,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[1646-get-maximum-in-generated-array]]
 - [[1662-check-if-two-string-arrays-are-equivalent]]
 - [[1688-count-of-matches-in-tournament]]
+- [[1704-determine-if-string-halves-are-alike]]
 - [[1716-calculate-money-in-leetcode-bank]]
 - [[1758-minimum-changes-to-make-alternating-binary-string]]
 - [[1759-count-number-of-homogenous-substrings]]
