@@ -1,6 +1,6 @@
 ---
 last_reviewed: 2024-01-12
-title: 1704 Determine if String Halves Are Alike
+title: 1704 Determine if String Halves Are Alike - Easy
 excerpt: "-"
 tags:
   - solution
