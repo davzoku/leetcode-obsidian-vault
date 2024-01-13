@@ -3,7 +3,6 @@ title: My Leetcode Solutions
 excerpt: Map of Content (MOC) of my Leetcode Solutions
 "#tags": "#moc"
 ---
-
 ## Hey Coders!
 
 Greetings and welcome to my Leetcode Solutions vault! This corner of the web is fuelled directly from my [Obsidian Vault](https://github.com/davzoku/leetcode-obsidian-vault) and served up with the magic of [Next.js](https://github.com/davzoku/leetcode-obsidian-frontend).
@@ -79,6 +78,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[1235-maximum-profit-in-job-scheduling]]
 - [[1266-minimum-time-visiting-all-points]]
 - [[1287-element-appearing-more-than-25-in-sorted-array]]
+- [[1347-minimum-number-of-steps-to-make-two-strings-anagram]]
 - [[1396-design-underground-system]]
 - [[1422-maximum-score-after-splitting-a-string]]
 - [[1424-diagonal-traverse-ii]]
