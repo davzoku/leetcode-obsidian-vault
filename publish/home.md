@@ -74,6 +74,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[983-minimum-cost-for-tickets]]
 - [[1155-number-of-dice-rolls-with-target-sum]]
 - [[1160-find-words-that-can-be-formed-by-characters]]
+- [[1207-unique-number-of-occurences]]
 - [[1232-check-if-it-is-a-straight-line]]
 - [[1235-maximum-profit-in-job-scheduling]]
 - [[1266-minimum-time-visiting-all-points]]
