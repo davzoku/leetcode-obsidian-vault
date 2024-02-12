@@ -5,6 +5,7 @@ excerpt: "-"
 tags:
   - arrays
   - solution
+  - boyer-moore-majority-vote
 ---
 ## Problem:
 
@@ -59,3 +60,4 @@ class Solution:
 - Boyer-Moore Majority Voting Algorithm
 
 ## Similar Questions
+- [[169-majority-element]]
