@@ -44,6 +44,8 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 
 ## Solutions:
 
+### Solution 1
+
 ```python
 class Solution:
     def isPalindrome(self, s: str) -> bool:
@@ -67,4 +69,12 @@ class Solution:
             ord('0') <= ord(c) <= ord('9'))
 ```
 
+### Solution 2
+```python
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        cleaned_string = ''.join(char.lower() for char in s if char.isalnum())
+        return cleaned_string == cleaned_string[::-1]
+```
 ## Similar Questions
+- [[2108-find-first-palindrome-string-in-the-array]]
