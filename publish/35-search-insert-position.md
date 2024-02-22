@@ -55,5 +55,5 @@ class Solution:
 ```
 
 ## Similar Questions
-[[374-guess-number-higher-or-lower]]
-[[278-first-bad-version]]
+- [[374-guess-number-higher-or-lower]]
+- [[278-first-bad-version]]

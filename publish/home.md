@@ -74,6 +74,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[935-knight-dialer]]
 - [[938-rangesum-of-bst]]
 - [[946-validate-stack-sequences]]
+- [[997-find-the-town-judge]]
 - [[983-minimum-cost-for-tickets]]
 - [[1155-number-of-dice-rolls-with-target-sum]]
 - [[1160-find-words-that-can-be-formed-by-characters]]
