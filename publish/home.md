@@ -33,6 +33,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[70-climbing-stairs]]
 - [[91-decode-ways]]
 - [[94-binary-tree-inorder-traversal]]
+- [[100-same-tree]]
 - [[118-pascals-triangle]]
 - [[119-pascals-triangle-ii]]
 - [[125-valid-palindrome]]
