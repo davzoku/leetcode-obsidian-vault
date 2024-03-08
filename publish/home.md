@@ -136,3 +136,4 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[2706-buy-two-chocolates]]
 - [[2864-maximum-odd-binary-number]]
 - [[2870-minimum-number-of-operations-to-make-array-empty]]
+- [[3005-count-elements-with-maximum-frequency]]
