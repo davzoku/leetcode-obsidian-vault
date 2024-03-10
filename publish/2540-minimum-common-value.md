@@ -55,3 +55,5 @@ class Solution:
 ```
 
 ## Similar Questions
+- [[349-intersection-of-two-arrays]]
+- [[350-intersection-of-two-arrays-ii]]
