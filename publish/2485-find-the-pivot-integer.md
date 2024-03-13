@@ -44,8 +44,8 @@ Return _the pivot integer_ `x`. If no such integer exists, return `-1`. It is
 2. **Complexity Analysis**:
     
     - Calculating the total sum of integers from 1 to n takes constant time, O(1), using the formula `total_sum = n * (n + 1) // 2`.
-    - Finding the square root using `math.sqrt()` takes constant time as well.
-    - Therefore, the overall time complexity of this solution is O(1).
+    - Finding the square root using `math.sqrt()` takes O(log n)
+    - Therefore, the overall time complexity of this solution is O(log n).
     - There's no significant space complexity as only a constant amount of extra space is used for storing intermediate variables.
 
 ## Solutions:
