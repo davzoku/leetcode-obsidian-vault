@@ -28,6 +28,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[35-search-insert-position]]
 - [[41-find-missing-positive]]
 - [[53-maximum-subarray]]
+- [[58-length-of-last-word]]
 - [[66-plus-one]]
 - [[69-sqrt-x]]
 - [[70-climbing-stairs]]
