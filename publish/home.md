@@ -129,6 +129,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[1921-eliminate-maximum-number-of-monsters]]
 - [[1930-unique-length-3-palindromic-subsequences]]
 - [[1980-find-unique-binary-string]]
+- [[2073-time-needed-to-buy-tickets]]
 - [[2101-detonate-the-maximum-bombs]]
 - [[2108-find-first-palindrome-string-in-the-array]]
 - [[2125-number-of-laser-beams-in-a-bank]]
