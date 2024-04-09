@@ -111,6 +111,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[1657-determine-if-two-strings-are-close]]
 - [[1662-check-if-two-string-arrays-are-equivalent]]
 - [[1688-count-of-matches-in-tournament]]
+- [[1700-number-of-students-unable-to-eat-lunch]]
 - [[1704-determine-if-string-halves-are-alike]]
 - [[1716-calculate-money-in-leetcode-bank]]
 - [[1758-minimum-changes-to-make-alternating-binary-string]]
