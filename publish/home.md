@@ -132,6 +132,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[1930-unique-length-3-palindromic-subsequences]]
 - [[1971-find-if-path-exists-in-graph]]
 - [[1980-find-unique-binary-string]]
+- [[2000-reverse-prefix-of-word]]
 - [[2073-time-needed-to-buy-tickets]]
 - [[2101-detonate-the-maximum-bombs]]
 - [[2108-find-first-palindrome-string-in-the-array]]
