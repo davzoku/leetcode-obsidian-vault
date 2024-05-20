@@ -141,6 +141,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[2215-find-the-difference-of-two-arrays]]
 - [[2248-intersection-of-multiple-arrays]]
 - [[2264-largest-3-same-digit-number-in-string]]
+- [[2331-evaluate-boolean-binary-tree]]
 - [[2385-amount-of-time-for-binary-tree-to-be-infected]]
 - [[2391-minimum-amount-of-time-to-collect-garbage]]
 - [[2353-design-a-food-rating-system]]
