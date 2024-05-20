@@ -122,6 +122,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[1838-frequency-of-the-most-frequent-element]]
 - [[1845-seat-reservation-manager]]
 - [[1846-maximum-element-after-decreasing-and-rearranging]]
+- [[1863-sum-of-all-subset-xor-totals]]
 - [[1877-minimize-maximum-pair-sum-in-array]]
 - [[1887-reduce-operations-to-make-the-array-elements-equal]]
 - [[1897-redistribute-characters-to-make-all-strings-equal]]
