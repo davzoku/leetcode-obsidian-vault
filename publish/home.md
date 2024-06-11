@@ -85,6 +85,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[977-squares-of-a-squared-array]]
 - [[997-find-the-town-judge]]
 - [[983-minimum-cost-for-tickets]]
+- [[1051-height-checker]]
 - [[1137-n-th-tribonacci-number]]
 - [[1155-number-of-dice-rolls-with-target-sum]]
 - [[1160-find-words-that-can-be-formed-by-characters]]
