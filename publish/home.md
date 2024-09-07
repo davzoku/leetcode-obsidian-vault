@@ -136,6 +136,7 @@ Let's break it down – my mission here is to dive into LeetCode questions, get 
 - [[1913-maximum-product-difference-between-two-pairs]]
 - [[1921-eliminate-maximum-number-of-monsters]]
 - [[1930-unique-length-3-palindromic-subsequences]]
+- [[1945-sum-of-digits-of-string-after-convert]]
 - [[1971-find-if-path-exists-in-graph]]
 - [[1980-find-unique-binary-string]]
 - [[2000-reverse-prefix-of-word]]
